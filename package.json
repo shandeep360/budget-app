@@ -34,6 +34,7 @@
     "moment": "^2.24.0",
     "node-sass": "^4.13.0",
     "normalize.css": "^8.0.1",
+    "numeral": "2.0.6",
     "react": "^16.11.0",
     "react-addons-shallow-compare": "^15.6.2",
     "react-dates": "12.7.0",
@@ -50,9 +51,9 @@
     "webpack": "^4.41.2"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.9",
     "jest": "20.0.4",
     "react-test-renderer": "^16.11.0",
+    "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.9.0"
   }
 }
